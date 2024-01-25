@@ -3,27 +3,27 @@ owner: Fernandoguidet # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: Mainsoft
-    url: https://mainsoft.cl
-    icono: https://mainsoft.cl/wp-content/uploads/2022/10/cropped-icon-fav-2-32x32.jpg
- - name: Itaú 
-    url: https://banco.itau.cl
-    #icono: https://d1dzq2r60kxox4.cloudfront.net/uploads/bb9193d2-d4b8-4f76-bcf2-d6e935663c0b/original/header_logo.svg
- - name: BCI 
-    url: https://www.bci.cl
-    #icono: https://cdn3.bci.cl/uploads/e682d72b-13b1-49a3-93ce-20f6252e1d17/original/logo_bci_negro.svg
- - name: Scotiabank Chile 
-    url: https://www.scotiabankchile.cl
-    #icono: https://scotiabankfiles.azureedge.net/scotiabank-chile/logo/logo-scotia-red-tm.svg
+- name: Mainsoft
+  url: https://mainsoft.cl
+  icono: https://mainsoft.cl/wp-content/uploads/2022/10/cropped-icon-fav-2-32x32.jpg
+- name: Itaú 
+  url: https://banco.itau.cl
+ #icono: https://d1dzq2r60kxox4.cloudfront.net/uploads/bb9193d2-d4b8-4f76-bcf2-d6e935663c0b/original/header_logo.svg
+- name: BCI 
+  url: https://www.bci.cl
+ #icono: https://cdn3.bci.cl/uploads/e682d72b-13b1-49a3-93ce-20f6252e1d17/original/logo_bci_negro.svg
+- name: Scotiabank Chile 
+  url: https://www.scotiabankchile.cl
+ #icono: https://scotiabankfiles.azureedge.net/scotiabank-chile/logo/logo-scotia-red-tm.svg
 - name: Banco Chile 
-    url: https://portales.bancochile.cl
-    #icono: https://portales.bancochile.cl/uploads/000/051/449/946eae2e-f803-4b02-ac99-f180633c9a6c/original/Banco_de_Chile.svg
+  url: https://portales.bancochile.cl
+ #icono: https://portales.bancochile.cl/uploads/000/051/449/946eae2e-f803-4b02-ac99-f180633c9a6c/original/Banco_de_Chile.svg
 - name: Movistar Chile 
-    url: https://ww2.movistar.cl
-    #icono: https://pbs.twimg.com/profile_images/1666927488327450626/VXigWqv-_400x400.jpg
+  url: https://ww2.movistar.cl
+ #icono: https://pbs.twimg.com/profile_images/1666927488327450626/VXigWqv-_400x400.jpg
 - name: Falabella 
-    url: https://tienda.falabella.com
-    #icono: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Falabella_Icono.svg/401px-Falabella_Icono.svg.png?20170504032206
+  url: https://tienda.falabella.com
+ #icono: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Falabella_Icono.svg/401px-Falabella_Icono.svg.png?20170504032206
 
     
 
