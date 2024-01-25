@@ -40,6 +40,8 @@ sites:
   url: https://www.viabcp.com
 - name: Banco Santander Chile
   url: https://banco.santander.cl
+- name: Prueba Notification
+  url: https://prueba.cl
   
 assignees: # Users to assign downtime issues (optional)
   - FernandoGuidet
