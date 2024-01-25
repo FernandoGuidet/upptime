@@ -58,7 +58,7 @@ status-website:
   introMessage: Es diferente de los sistemas de página de estado tradicionales, verifica el estado de salud del sitio web cada 5 minutos, envia notificaciones a canales como Slack, Telegram, Discord, Correo electrónico y SMS
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: Mas Servicios
       href: https://mainsoft.cl/
       #https://github.com/$OWNER/$REPO
