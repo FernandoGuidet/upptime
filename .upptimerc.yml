@@ -38,6 +38,8 @@ sites:
   url: https://www.bbva.pe    
 - name: Banco de Credito del Perú
   url: https://www.viabcp.com
+- name: Banco Santander Chile
+  url: https://banco.santander.cl
   
 assignees: # Users to assign downtime issues (optional)
   - FernandoGuidet
