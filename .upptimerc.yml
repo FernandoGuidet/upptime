@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Mainsoft
     url: https://mainsoft.cl
-    #icono: https://mainsoft.cl/wp-content/uploads/2022/10/cropped-icon-fav-2-32x32.jpg
+    icono: https://mainsoft.cl/wp-content/uploads/2022/10/cropped-icon-fav-2-32x32.jpg
  - name: Itaú 
     url: https://banco.itau.cl
     #icono: https://d1dzq2r60kxox4.cloudfront.net/uploads/bb9193d2-d4b8-4f76-bcf2-d6e935663c0b/original/header_logo.svg
