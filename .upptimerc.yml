@@ -7,6 +7,7 @@ sites:
     url: https://www.google.com
   - name: Mainsoft
     url: https://mainsoft.cl
+    icono: https://mainsoft.cl/wp-content/uploads/2022/10/cropped-icon-fav-2-32x32.jpg
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
