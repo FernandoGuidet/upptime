@@ -29,7 +29,7 @@ status-website:
   theme: night
   logoUrl: https://mainsoft.cl/wp-content/uploads/2022/10/cropped-icon-fav-2-32x32.jpg
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   introTitle: "**Status Page** es una página de estado y Servicio de monitoreo de sitios web"
   introMessage: Es diferente de los sistemas de página de estado tradicionales, verifica el estado de salud del sitio web cada 5 minutos, envia notificaciones a canales como Slack, Telegram, Discord, Correo electrónico y SMS
