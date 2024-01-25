@@ -24,9 +24,21 @@ sites:
 - name: Falabella 
   url: https://tienda.falabella.com
  #icono: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Falabella_Icono.svg/401px-Falabella_Icono.svg.png?20170504032206
-
-    
-
+- name: La Araucana 
+  url: https://www.laaraucana.cl
+- name: Evertec 
+  url: https://www.evertecinc.com
+- name: Provida AFP 
+  url: https://www.provida.cl
+- name: Brinks 
+  url: https://www.brinks.com  
+- name: Banco Industrial Argentina 
+  url: https://banco.bind.com.ar  
+- name: BBVA Perú
+  url: https://www.bbva.pe    
+- name: Banco de Credito del Perú
+  url: https://www.viabcp.com
+  
 assignees: # Users to assign downtime issues (optional)
   - FernandoGuidet
 status-website:
