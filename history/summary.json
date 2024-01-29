@@ -88,7 +88,7 @@
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2024-01-29": 119,
+      "2024-01-29": 409,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -154,9 +154,9 @@
     "url": "https://www.evertecinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.evertecinc.com.ico",
     "slug": "evertec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +165,9 @@
     "timeWeek": 2600,
     "timeMonth": 2600,
     "timeYear": 2600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-29": 0
+    }
   },
   {
     "name": "Provida AFP",
@@ -292,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-29": 119,
+      "2024-01-29": 409,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
