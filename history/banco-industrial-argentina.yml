@@ -1,7 +1,7 @@
 url: https://banco.bind.com.ar
-status: down
-code: 503
-responseTime: 1123
-lastUpdated: 2024-02-15T19:46:46.912Z
+status: up
+code: 200
+responseTime: 2620
+lastUpdated: 2024-02-15T19:55:54.343Z
 startTime: 2024-01-25T20:12:49.613Z
 generator: Upptime <https://github.com/upptime/upptime>
