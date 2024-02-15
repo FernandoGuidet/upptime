@@ -88,7 +88,7 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-02-15": 118,
+      "2024-02-15": 1187,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -225,18 +225,20 @@
     "url": "https://banco.bind.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/banco.bind.com.ar.ico",
     "slug": "banco-industrial-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2482,
-    "timeDay": 2362,
-    "timeWeek": 2060,
-    "timeMonth": 2482,
-    "timeYear": 2482,
-    "dailyMinutesDown": {}
+    "time": 2431,
+    "timeDay": 1743,
+    "timeWeek": 1943,
+    "timeMonth": 2431,
+    "timeYear": 2431,
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   },
   {
     "name": "BBVA Perú",
@@ -309,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-15": 118,
+      "2024-02-15": 1187,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
