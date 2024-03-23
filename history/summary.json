@@ -90,7 +90,7 @@
     "timeMonth": 183,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-03-23": 35,
+      "2024-03-23": 178,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
@@ -213,18 +213,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.evertecinc.com.ico",
     "slug": "evertec",
     "status": "down",
-    "uptime": "49.16%",
+    "uptime": "49.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.93%",
-    "uptimeYear": "49.16%",
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "49.08%",
     "time": 2387,
     "timeDay": 68,
     "timeWeek": 106,
     "timeMonth": 87,
     "timeYear": 2387,
     "dailyMinutesDown": {
-      "2024-03-23": 35,
+      "2024-03-23": 178,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
@@ -364,9 +364,9 @@
     "url": "https://banco.santander.cl",
     "icon": "https://icons.duckduckgo.com/ip3/banco.santander.cl.ico",
     "slug": "banco-santander-chile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -375,7 +375,9 @@
     "timeWeek": 938,
     "timeMonth": 988,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 0
+    }
   },
   {
     "name": "Prueba Notification",
@@ -394,7 +396,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-23": 35,
+      "2024-03-23": 178,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
