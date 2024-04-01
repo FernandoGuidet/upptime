@@ -4,9 +4,9 @@
     "url": "https://mainsoft.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mainsoft.cl.ico",
     "slug": "mainsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 1915,
     "timeYear": 1844,
     "dailyMinutesDown": {
+      "2024-04-01": 0,
       "2024-02-20": 317
     }
   },
@@ -90,7 +91,7 @@
     "timeMonth": 197,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-04-01": 40,
+      "2024-04-01": 678,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -222,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.evertecinc.com.ico",
     "slug": "evertec",
     "status": "down",
-    "uptime": "42.47%",
+    "uptime": "42.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.47%",
+    "uptimeYear": "42.19%",
     "time": 2136,
     "timeDay": 36,
     "timeWeek": 288,
     "timeMonth": 135,
     "timeYear": 2136,
     "dailyMinutesDown": {
-      "2024-04-01": 40,
+      "2024-04-01": 678,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -333,7 +334,7 @@
     "uptimeYear": "99.73%",
     "time": 2189,
     "timeDay": 2128,
-    "timeWeek": 1873,
+    "timeWeek": 1867,
     "timeMonth": 2110,
     "timeYear": 2189,
     "dailyMinutesDown": {
@@ -414,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 40,
+      "2024-04-01": 678,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
