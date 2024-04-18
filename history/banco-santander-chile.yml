@@ -1,7 +1,7 @@
 url: https://banco.santander.cl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-18T14:44:21.539Z
+status: up
+code: 200
+responseTime: 726
+lastUpdated: 2024-04-18T14:53:27.756Z
 startTime: 2024-01-25T20:28:20.639Z
 generator: Upptime <https://github.com/upptime/upptime>
