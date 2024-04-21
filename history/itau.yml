@@ -1,7 +1,7 @@
 url: https://banco.itau.cl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-21T13:36:16.602Z
+status: up
+code: 200
+responseTime: 1148
+lastUpdated: 2024-04-21T13:44:44.949Z
 startTime: 2024-01-25T20:02:01.360Z
 generator: Upptime <https://github.com/upptime/upptime>
